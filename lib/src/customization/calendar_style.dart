@@ -172,7 +172,7 @@ class CalendarStyle {
       fontSize: 16.0,
     ), //
     this.todayDecoration = const BoxDecoration(
-      color: const Color(0xFF9FA8DA),
+      color: const Color(0xFF543524),
       shape: BoxShape.circle,
     ),
     this.selectedTextStyle = const TextStyle(
@@ -180,7 +180,7 @@ class CalendarStyle {
       fontSize: 16.0,
     ),
     this.selectedDecoration = const BoxDecoration(
-      color: const Color(0xFF5C6BC0),
+      color: const Color(0xFFcfa67e),
       shape: BoxShape.circle,
     ),
     this.rangeStartTextStyle = const TextStyle(
